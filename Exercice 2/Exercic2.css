@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+}
+#conteneur {
+  text-align: center;
+  border: 1px solid black;
+  width: 500px;
+  margin: auto;
+}
+h1,
+h4 {
+  color: white;
+  background-color: red;
+}
